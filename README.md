@@ -34,11 +34,11 @@ uma arquitetura confiável e colocar a solução em produção.
 
 ## Projetos em destaque
 
-### Laços de Irmãs · Afeto Divino
+### Laços de Irmãs
 
-Plataforma multiportal para conectar famílias, profissionais e a operação de
-cuidado. O produto reúne autenticação, contratos, documentos, pagamentos,
-repasses, auditoria e jornadas responsivas em uma arquitetura .NET.
+Experiência digital para uma marca familiar de velas e lembranças artesanais.
+O projeto combina narrativa de marca, coleções, galeria, movimento sutil,
+responsividade e conversão direta de encomendas pelo WhatsApp.
 
 [Explorar o case](https://adrianmoraisdev.github.io/adrian-higa-portfolio/projetos/lacos-de-irmas/)
 
