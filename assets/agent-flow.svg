@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Fluxo de engenharia com agentes de IA em 6 etapas">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#0f1530"/></linearGradient>
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>.t{font-family:"Segoe UI","Helvetica Neue",Ubuntu,Arial,sans-serif}</style>
+<rect width="1200" height="200" rx="20" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="1199" height="199" rx="19.5" fill="none" stroke="#94a3b8" stroke-opacity=".18"/>
+<text class="t" x="40" y="40" font-size="13" font-weight="700" letter-spacing="2.5" fill="#7dd3fc">COMO EU ENTREGO COM IA</text>
+<text class="t" x="1160" y="40" font-size="13" fill="#64748b" text-anchor="end">agentes escrevem · engenharia decide o que vai para produção</text>
+<line x1="127" y1="112" x2="1073" y2="112" stroke="#94a3b8" stroke-opacity=".18" stroke-width="2"/>
+<line x1="127" y1="112" x2="1073" y2="112" stroke="url(#tg)" stroke-width="2" stroke-dasharray="947" stroke-dashoffset="947"><animate attributeName="stroke-dashoffset" values="947;0;0;947" keyTimes="0;0.8;0.95;1" dur="6.0s" repeatCount="indefinite"/></line>
+<g>
+<rect x="40" y="66" width="173" height="96" rx="14" fill="#0b1222" stroke="#94a3b8" stroke-opacity=".2"/>
+<rect x="40" y="66" width="173" height="96" rx="14" fill="#38bdf8" fill-opacity=".07" stroke="url(#tg)" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.000;0.060;0.95;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<text class="t" x="56" y="94" font-size="15" font-weight="800" fill="#38bdf8">01</text>
+<text class="t" x="56" y="122" font-size="17" font-weight="700" fill="#e6edf7">Demanda</text>
+<text class="t" x="56" y="146" font-size="12.5" fill="#9aa8bf">requisito e aceite</text>
+<text class="t" x="197" y="94" font-size="15" font-weight="700" fill="#34d399" text-anchor="end" opacity="0">✓<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.060;0.090;0.95;1" dur="6.0s" repeatCount="indefinite"/></text>
+</g>
+<g>
+<rect x="229" y="66" width="173" height="96" rx="14" fill="#0b1222" stroke="#94a3b8" stroke-opacity=".2"/>
+<rect x="229" y="66" width="173" height="96" rx="14" fill="#38bdf8" fill-opacity=".07" stroke="url(#tg)" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.160;0.220;0.95;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<text class="t" x="245" y="94" font-size="15" font-weight="800" fill="#38bdf8">02</text>
+<text class="t" x="245" y="122" font-size="17" font-weight="700" fill="#e6edf7">Briefing</text>
+<text class="t" x="245" y="146" font-size="12.5" fill="#9aa8bf">AGENTS.md e regras</text>
+<text class="t" x="387" y="94" font-size="15" font-weight="700" fill="#34d399" text-anchor="end" opacity="0">✓<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.220;0.250;0.95;1" dur="6.0s" repeatCount="indefinite"/></text>
+</g>
+<g>
+<rect x="419" y="66" width="173" height="96" rx="14" fill="#0b1222" stroke="#94a3b8" stroke-opacity=".2"/>
+<rect x="419" y="66" width="173" height="96" rx="14" fill="#38bdf8" fill-opacity=".07" stroke="url(#tg)" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.320;0.380;0.95;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<text class="t" x="435" y="94" font-size="15" font-weight="800" fill="#38bdf8">03</text>
+<text class="t" x="435" y="122" font-size="17" font-weight="700" fill="#e6edf7">Agentes</text>
+<text class="t" x="435" y="146" font-size="12.5" fill="#9aa8bf">Claude Code · Codex</text>
+<text class="t" x="576" y="94" font-size="15" font-weight="700" fill="#34d399" text-anchor="end" opacity="0">✓<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.380;0.410;0.95;1" dur="6.0s" repeatCount="indefinite"/></text>
+</g>
+<g>
+<rect x="608" y="66" width="173" height="96" rx="14" fill="#0b1222" stroke="#94a3b8" stroke-opacity=".2"/>
+<rect x="608" y="66" width="173" height="96" rx="14" fill="#38bdf8" fill-opacity=".07" stroke="url(#tg)" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.480;0.540;0.95;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<text class="t" x="624" y="94" font-size="15" font-weight="800" fill="#38bdf8">04</text>
+<text class="t" x="624" y="122" font-size="17" font-weight="700" fill="#e6edf7">Verificação</text>
+<text class="t" x="624" y="146" font-size="12.5" fill="#9aa8bf">testes · SAST · segredos</text>
+<text class="t" x="765" y="94" font-size="15" font-weight="700" fill="#34d399" text-anchor="end" opacity="0">✓<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.540;0.570;0.95;1" dur="6.0s" repeatCount="indefinite"/></text>
+</g>
+<g>
+<rect x="797" y="66" width="173" height="96" rx="14" fill="#0b1222" stroke="#94a3b8" stroke-opacity=".2"/>
+<rect x="797" y="66" width="173" height="96" rx="14" fill="#38bdf8" fill-opacity=".07" stroke="url(#tg)" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.640;0.700;0.95;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<text class="t" x="813" y="94" font-size="15" font-weight="800" fill="#38bdf8">05</text>
+<text class="t" x="813" y="122" font-size="17" font-weight="700" fill="#e6edf7">Revisão</text>
+<text class="t" x="813" y="146" font-size="12.5" fill="#9aa8bf">humana, no diff</text>
+<text class="t" x="955" y="94" font-size="15" font-weight="700" fill="#34d399" text-anchor="end" opacity="0">✓<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.700;0.730;0.95;1" dur="6.0s" repeatCount="indefinite"/></text>
+</g>
+<g>
+<rect x="987" y="66" width="173" height="96" rx="14" fill="#0b1222" stroke="#94a3b8" stroke-opacity=".2"/>
+<rect x="987" y="66" width="173" height="96" rx="14" fill="#38bdf8" fill-opacity=".07" stroke="url(#tg)" stroke-width="1.6" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.800;0.860;0.95;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<text class="t" x="1003" y="94" font-size="15" font-weight="800" fill="#38bdf8">06</text>
+<text class="t" x="1003" y="122" font-size="17" font-weight="700" fill="#e6edf7">Produção</text>
+<text class="t" x="1003" y="146" font-size="12.5" fill="#9aa8bf">deploy e monitoria</text>
+<text class="t" x="1144" y="94" font-size="15" font-weight="700" fill="#34d399" text-anchor="end" opacity="0">✓<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.860;0.890;0.95;1" dur="6.0s" repeatCount="indefinite"/></text>
+</g>
+<circle r="6" fill="#e0f2fe" filter="url(#glow)"><animateMotion path="M127 174 L1073 174" dur="6.0s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;0.8;1" calcMode="linear"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.85;1" dur="6.0s" repeatCount="indefinite"/></circle>
+<line x1="127" y1="174" x2="1073" y2="174" stroke="#94a3b8" stroke-opacity=".14" stroke-width="2" stroke-dasharray="2 8"/>
+</svg>
